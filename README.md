@@ -1,3 +1,3 @@
 # ProjectPracticalMachineLearning
 
-Results of Coursera Course Practical machine Learning
+Results of Coursera Course Practical Machine Learning
